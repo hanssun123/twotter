@@ -1,4 +1,4 @@
-# twotter
+# twotter - twitter clone vue tutorial
 
 ## Project setup
 ```
